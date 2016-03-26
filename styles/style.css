@@ -1,0 +1,30 @@
+
+
+h1 {
+color: red;
+text-align: center
+}
+
+body{
+	
+	text-align: center;
+}
+
+#first-p{
+	text-decoration: underline;
+}
+
+.other-ps{
+	background-color: gray;
+}
+
+img{
+	border: 1px solid black;
+	float: right;
+	width:195px;
+}
+
+body{
+border-top: 20px solid black;
+border-bottom: 20px solid black;
+}
