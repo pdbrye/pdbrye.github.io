@@ -2,7 +2,7 @@
 
 h1 {
 color: red;
-text-align: center
+text-align: center;
 }
 
 body{
@@ -28,3 +28,5 @@ body{
 border-top: 20px solid black;
 border-bottom: 20px solid black;
 }
+
+
